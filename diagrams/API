@@ -1,1 +1,64 @@
-<mxfile host="app.diagrams.net" modified="2022-07-12T23:26:43.292Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.0.4" etag="WCmsDZIECEliRK_HDIyb" type="github"><diagram id="-xg3PqRdshDZFtcA-b1M">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-12T23:39:56.497Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="pcBmWvn7tiDBwQb_XECG" version="20.0.4" type="github">
+  <diagram id="-xg3PqRdshDZFtcA-b1M" name="Page-1">
+    <mxGraphModel dx="1422" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JIj0075NoHnigZkMfiwq-1" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 17px;&quot; face=&quot;Verdana&quot;&gt;API&lt;br&gt;WEB SERVICE&lt;br&gt;&lt;/font&gt;" style="html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.cloud;fontColor=#ffffff;sketch=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="290" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="JIj0075NoHnigZkMfiwq-2" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.mobile;" vertex="1" parent="1">
+          <mxGeometry x="100" y="307" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="JIj0075NoHnigZkMfiwq-4" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.storage;" vertex="1" parent="1">
+          <mxGeometry x="630" y="300" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="JIj0075NoHnigZkMfiwq-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="350" as="sourcePoint" />
+            <mxPoint x="300" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JIj0075NoHnigZkMfiwq-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="380" as="sourcePoint" />
+            <mxPoint x="160" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JIj0075NoHnigZkMfiwq-11" value="APACHE/PHP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;fontFamily=Verdana;fontSize=17;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="364" y="400" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JIj0075NoHnigZkMfiwq-12" value="MariaDB" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;fontFamily=Verdana;fontSize=17;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="650" y="400" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JIj0075NoHnigZkMfiwq-14" value="Data Source" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;fontFamily=Verdana;fontSize=17;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="631" y="267" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JIj0075NoHnigZkMfiwq-16" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="342" as="sourcePoint" />
+            <mxPoint x="620" y="342" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JIj0075NoHnigZkMfiwq-17" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="372" as="sourcePoint" />
+            <mxPoint x="480" y="372" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JIj0075NoHnigZkMfiwq-18" value="API/ JSON REQUEST" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;fontFamily=Verdana;fontSize=12;fontColor=#000000;strokeWidth=0;" vertex="1" parent="1">
+          <mxGeometry x="158" y="318" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JIj0075NoHnigZkMfiwq-19" value="API/JSON RESPONSE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;fontFamily=Verdana;fontSize=12;fontColor=#000000;strokeWidth=0;" vertex="1" parent="1">
+          <mxGeometry x="162" y="383" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JIj0075NoHnigZkMfiwq-20" value="SQL QUERY" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;fontFamily=Verdana;fontSize=12;fontColor=#000000;strokeWidth=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="319" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JIj0075NoHnigZkMfiwq-21" value="SQL RESPONSE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;fontFamily=Verdana;fontSize=12;fontColor=#000000;strokeWidth=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="373" width="150" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
