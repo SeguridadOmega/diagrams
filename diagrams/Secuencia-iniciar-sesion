@@ -1,1 +1,33 @@
-<mxfile host="app.diagrams.net" modified="2022-07-13T19:23:00.231Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.1.1" etag="5aAiQBUdgSzyvlGqw79P" type="github"><diagram id="_6zFouCVfxVJ-XVws-2R">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-13T19:27:31.381Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="Zq51tVUEQTJ4NDo02A_c" version="20.1.1" type="github">
+  <diagram id="_6zFouCVfxVJ-XVws-2R" name="Page-1">
+    <mxGraphModel dx="1422" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="t0zFQ7TzmFUT8oKkFell-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="340" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t0zFQ7TzmFUT8oKkFell-6" value="JSON / REQUIEST" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="280" width="100" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="t0zFQ7TzmFUT8oKkFell-9" value="Iniciar sesión" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="t0zFQ7TzmFUT8oKkFell-6" target="t0zFQ7TzmFUT8oKkFell-6">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="-60" y="80" as="sourcePoint" />
+            <mxPoint x="20" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t0zFQ7TzmFUT8oKkFell-7" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="250" y="370" width="10" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="t0zFQ7TzmFUT8oKkFell-8" value="Validación&amp;nbsp;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" target="t0zFQ7TzmFUT8oKkFell-7" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="255" y="350" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="285" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
