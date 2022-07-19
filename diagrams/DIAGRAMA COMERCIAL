@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2022-07-19T19:28:36.974Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.1.1" etag="Q2T8IDN7vvJb4CxtgvU-" type="github"><diagram id="2i1ex1bfQgipOtqiWpf-">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-19T19:33:05.124Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="SdN7tvu9AvL8_UrIO_HJ" version="20.1.1" type="github">
+  <diagram id="2i1ex1bfQgipOtqiWpf-" name="Page-1">
+    <mxGraphModel dx="770" dy="489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cQqfELgmMeeYbTJIMfDF-1" value="INICIO" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="320" y="50" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cQqfELgmMeeYbTJIMfDF-3" value="Cliente &lt;br&gt;viable" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="130" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cQqfELgmMeeYbTJIMfDF-4" value="Termina el proceso" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="470" y="140" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cQqfELgmMeeYbTJIMfDF-5" value="Elaborar cotización" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="230" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cQqfELgmMeeYbTJIMfDF-6" value="Seguimiento de cotizacion" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="280" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cQqfELgmMeeYbTJIMfDF-7" value="No &lt;br&gt;aceptada" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="335" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cQqfELgmMeeYbTJIMfDF-8" value="Termina el proceso" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="439" width="80" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
