@@ -1,11 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2022-07-19T19:33:05.124Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="SdN7tvu9AvL8_UrIO_HJ" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-19T19:36:47.258Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="258M9ShxYbQXMYPHHHiV" version="20.1.1" type="github">
   <diagram id="2i1ex1bfQgipOtqiWpf-" name="Page-1">
-    <mxGraphModel dx="770" dy="489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1186" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="cQqfELgmMeeYbTJIMfDF-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cQqfELgmMeeYbTJIMfDF-1" target="cQqfELgmMeeYbTJIMfDF-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cQqfELgmMeeYbTJIMfDF-1" value="INICIO" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="320" y="50" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cQqfELgmMeeYbTJIMfDF-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="cQqfELgmMeeYbTJIMfDF-3" target="cQqfELgmMeeYbTJIMfDF-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cQqfELgmMeeYbTJIMfDF-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cQqfELgmMeeYbTJIMfDF-3" target="cQqfELgmMeeYbTJIMfDF-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cQqfELgmMeeYbTJIMfDF-3" value="Cliente &lt;br&gt;viable" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="130" width="80" height="80" as="geometry" />
@@ -13,17 +22,38 @@
         <mxCell id="cQqfELgmMeeYbTJIMfDF-4" value="Termina el proceso" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="470" y="140" width="60" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="cQqfELgmMeeYbTJIMfDF-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cQqfELgmMeeYbTJIMfDF-5" target="cQqfELgmMeeYbTJIMfDF-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cQqfELgmMeeYbTJIMfDF-5" value="Elaborar cotización" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="230" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="cQqfELgmMeeYbTJIMfDF-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cQqfELgmMeeYbTJIMfDF-6" target="cQqfELgmMeeYbTJIMfDF-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cQqfELgmMeeYbTJIMfDF-6" value="Seguimiento de cotizacion" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="280" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cQqfELgmMeeYbTJIMfDF-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cQqfELgmMeeYbTJIMfDF-7" target="cQqfELgmMeeYbTJIMfDF-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cQqfELgmMeeYbTJIMfDF-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cQqfELgmMeeYbTJIMfDF-7" target="cQqfELgmMeeYbTJIMfDF-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cQqfELgmMeeYbTJIMfDF-7" value="No &lt;br&gt;aceptada" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="335" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="cQqfELgmMeeYbTJIMfDF-8" value="Termina el proceso" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="439" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="cQqfELgmMeeYbTJIMfDF-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cQqfELgmMeeYbTJIMfDF-9" target="cQqfELgmMeeYbTJIMfDF-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cQqfELgmMeeYbTJIMfDF-9" value="Creación &lt;br&gt;del cliente" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="360" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cQqfELgmMeeYbTJIMfDF-12" value="Generar cronogramas" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="357.5" width="100" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
