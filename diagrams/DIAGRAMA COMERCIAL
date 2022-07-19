@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-19T21:35:14.177Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="Kd1d5l8bZy2kbBX_v_Rh" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-19T21:36:35.961Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="-oXHp22ZyLubzS9GEeUz" version="20.1.1" type="github">
   <diagram id="2i1ex1bfQgipOtqiWpf-" name="Page-1">
     <mxGraphModel dx="770" dy="489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -55,11 +55,11 @@
         <mxCell id="cQqfELgmMeeYbTJIMfDF-12" value="Generar cronogramas" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="357.5" width="100" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="cQqfELgmMeeYbTJIMfDF-21" value="NO FUNCIONA" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="cQqfELgmMeeYbTJIMfDF-21" value="NO SE UTILIZA" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="420" y="280" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cQqfELgmMeeYbTJIMfDF-22" value="NO FUNCIONA" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="200" y="230" width="80" height="30" as="geometry" />
+        <mxCell id="cQqfELgmMeeYbTJIMfDF-22" value="SE UTILIZA PARCIALMENTE" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="230" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cQqfELgmMeeYbTJIMfDF-23" value="FUNCIONA&amp;nbsp; +/-" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="620" y="327.5" width="70" height="30" as="geometry" />
