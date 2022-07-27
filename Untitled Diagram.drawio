@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-27T15:12:59.367Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="S2ahTqquFH8mEDzB0LpF" version="20.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-27T15:14:01.809Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="YxHxiPR0dJu9f7hFg0sD" version="20.1.2" type="github">
   <diagram id="T0ilVsNC7wKxDNPLaUD6" name="Page-1">
     <mxGraphModel dx="733" dy="411" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -46,20 +46,23 @@
         <mxCell id="-1c-Uow--uqYdpP_RSEN-15" value="SI" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="310" y="295" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-1c-Uow--uqYdpP_RSEN-16" value="FORMACIÓN" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+        <mxCell id="-1c-Uow--uqYdpP_RSEN-16" value="FORMACIÓN&lt;br&gt;INICIAL" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="315" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-1c-Uow--uqYdpP_RSEN-20" value="NÓMINA Y VACACIONES" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="495" y="700" width="120" height="60" as="geometry" />
+          <mxGeometry x="510" y="680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-1c-Uow--uqYdpP_RSEN-21" value="DISCIPLINA Y DESEMPEÑO" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="495" y="580" width="120" height="60" as="geometry" />
+          <mxGeometry x="510" y="580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-1c-Uow--uqYdpP_RSEN-22" value="BIENESTAR" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="495" y="790" width="120" height="60" as="geometry" />
+          <mxGeometry x="510" y="780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-1c-Uow--uqYdpP_RSEN-23" value="SST" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="495" y="880" width="120" height="60" as="geometry" />
+          <mxGeometry x="510" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-1c-Uow--uqYdpP_RSEN-24" value="FORMACIÓN Y ACREDITACIÓN" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="490" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
