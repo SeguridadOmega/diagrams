@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-29T13:55:58.480Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="0TtQ7O8FoN8fV8VdPlBU" version="20.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-29T13:58:22.719Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="1d1Uq2dkR31vBMh8DhfP" version="20.2.2" type="github">
   <diagram id="T0ilVsNC7wKxDNPLaUD6" name="Page-1">
     <mxGraphModel dx="1426" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -64,6 +64,9 @@
         <mxCell id="-1c-Uow--uqYdpP_RSEN-21" value="DISCIPLINA Y DESEMPEÑO" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="210" y="540" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="bKaEDpMlJGmUdyzLtjko-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-1c-Uow--uqYdpP_RSEN-22" target="bKaEDpMlJGmUdyzLtjko-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-1c-Uow--uqYdpP_RSEN-22" value="BIENESTAR" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
           <mxGeometry x="530" y="540" width="120" height="60" as="geometry" />
         </mxCell>
@@ -72,6 +75,12 @@
         </mxCell>
         <mxCell id="-1c-Uow--uqYdpP_RSEN-24" value="FORMACIÓN Y ACREDITACIÓN" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
           <mxGeometry x="50" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bKaEDpMlJGmUdyzLtjko-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bKaEDpMlJGmUdyzLtjko-11" value="&lt;ul&gt;&lt;li&gt;INFORME DE APOYO&lt;/li&gt;&lt;li&gt;PARTICIPACION&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="500" y="630" width="180" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
