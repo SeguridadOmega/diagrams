@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-18T19:49:08.738Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="1NJiqHfA0bY1nb2tJNFj" version="20.2.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-08-18T19:50:14.740Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="TnA-Pdf_z5dtS2PcdFDY" version="20.2.4" type="github" pages="2">
   <diagram id="gcUTEpgHtW5JdiT5YzwV" name="Inicio de sesion">
-    <mxGraphModel dx="1426" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -102,6 +102,96 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="CwhvwEICqgHz81rE34P5-1" value=":UserController" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="90" width="100" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="CwhvwEICqgHz81rE34P5-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="CwhvwEICqgHz81rE34P5-1">
+          <mxGeometry x="50" y="106" width="10" height="224" as="geometry" />
+        </mxCell>
+        <mxCell id="CwhvwEICqgHz81rE34P5-3" value=":UserModel" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="683" y="90" width="100" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="CwhvwEICqgHz81rE34P5-4" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="CwhvwEICqgHz81rE34P5-3">
+          <mxGeometry x="50" y="90" width="10" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="CwhvwEICqgHz81rE34P5-5" value="Vista App" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="90" width="100" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="CwhvwEICqgHz81rE34P5-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="CwhvwEICqgHz81rE34P5-5">
+          <mxGeometry x="50" y="80" width="10" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="CwhvwEICqgHz81rE34P5-7" value="Validar email&lt;br&gt;Password" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" parent="CwhvwEICqgHz81rE34P5-5" target="CwhvwEICqgHz81rE34P5-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="55" y="50" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="85" y="50" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CwhvwEICqgHz81rE34P5-8" value="Login(Email, Password)" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="CwhvwEICqgHz81rE34P5-5" target="CwhvwEICqgHz81rE34P5-1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="60" y="121" as="sourcePoint" />
+            <mxPoint x="234.5" y="121" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CwhvwEICqgHz81rE34P5-9" value="&lt;font color=&quot;#ff0000&quot;&gt;Error de inicio de sesión&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="CwhvwEICqgHz81rE34P5-5" target="CwhvwEICqgHz81rE34P5-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50" y="179.5" as="sourcePoint" />
+            <mxPoint x="-30" y="179.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CwhvwEICqgHz81rE34P5-10" value="Listado de clientes&amp;nbsp;&lt;br&gt;Para iniciar sesión" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="CwhvwEICqgHz81rE34P5-5" target="CwhvwEICqgHz81rE34P5-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50" y="320" as="sourcePoint" />
+            <mxPoint x="-30" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CwhvwEICqgHz81rE34P5-11" value="Iniciar sesión" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="140" y="170" as="sourcePoint" />
+            <mxPoint x="290" y="170.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CwhvwEICqgHz81rE34P5-12" value="return UserInfo[]" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="730" y="311.5" as="sourcePoint" />
+            <mxPoint x="510" y="312" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CwhvwEICqgHz81rE34P5-13" value="&lt;font color=&quot;#cc0000&quot;&gt;if error return &quot;&quot;Email or password do not match&quot;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1">
+          <mxGeometry x="0.0255" y="-3" relative="1" as="geometry">
+            <mxPoint x="731" y="272.5" as="sourcePoint" />
+            <mxPoint x="300" y="273" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CwhvwEICqgHz81rE34P5-14" value="Login(Email, Password)" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="510" y="230" as="sourcePoint" />
+            <mxPoint x="732.5" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CwhvwEICqgHz81rE34P5-15" value="userInstances(userId)" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="510" y="370" as="sourcePoint" />
+            <mxPoint x="732.5" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CwhvwEICqgHz81rE34P5-16" value="return UserInstances[]" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="729" y="409.5" as="sourcePoint" />
+            <mxPoint x="509" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CwhvwEICqgHz81rE34P5-17" value="return JSON/OBJ" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;entryX=1;entryY=0.956;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="CwhvwEICqgHz81rE34P5-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="408.5" as="sourcePoint" />
+            <mxPoint x="310" y="409" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CwhvwEICqgHz81rE34P5-18" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="140" width="20" height="300" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
