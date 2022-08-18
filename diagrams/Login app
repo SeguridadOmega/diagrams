@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-18T14:01:42.375Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="p7Q0qZJCfoQG9v0JpoFU" version="20.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-18T14:03:10.831Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="com7-eWSou0QX7LFUgj4" version="20.2.4" type="github">
   <diagram id="gcUTEpgHtW5JdiT5YzwV" name="Page-1">
     <mxGraphModel dx="1426" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -58,9 +58,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TT3K4nxCikKpbwO2ICjZ-2" value="return UserInfo[]" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.5359" y="-3" relative="1" as="geometry">
             <mxPoint x="681" y="262.5" as="sourcePoint" />
-            <mxPoint x="461" y="263" as="targetPoint" />
+            <mxPoint x="250" y="263" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
