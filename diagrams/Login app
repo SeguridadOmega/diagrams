@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-18T19:31:59.844Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="mgoNvizYGQGeDPr0pGlo" version="20.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-18T19:40:03.549Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="Plk_SjkIaEYLu2LencwF" version="20.2.4" type="github">
   <diagram id="gcUTEpgHtW5JdiT5YzwV" name="Page-1">
     <mxGraphModel dx="1426" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -8,22 +8,22 @@
           <mxGeometry x="60" y="140" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0vhitlNSlHansAHAVCsJ-8" value=":UserController" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="400" y="90" width="100" height="420" as="geometry" />
+          <mxGeometry x="400" y="90" width="100" height="360" as="geometry" />
         </mxCell>
         <mxCell id="0vhitlNSlHansAHAVCsJ-9" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="0vhitlNSlHansAHAVCsJ-8" vertex="1">
-          <mxGeometry x="50" y="106" width="10" height="204" as="geometry" />
+          <mxGeometry x="50" y="106" width="10" height="224" as="geometry" />
         </mxCell>
         <mxCell id="0vhitlNSlHansAHAVCsJ-11" value=":UserModel" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="633" y="80" width="100" height="420" as="geometry" />
+          <mxGeometry x="633" y="90" width="100" height="360" as="geometry" />
         </mxCell>
         <mxCell id="0vhitlNSlHansAHAVCsJ-12" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="0vhitlNSlHansAHAVCsJ-11" vertex="1">
-          <mxGeometry x="50" y="90" width="10" height="160" as="geometry" />
+          <mxGeometry x="50" y="90" width="10" height="240" as="geometry" />
         </mxCell>
         <mxCell id="0vhitlNSlHansAHAVCsJ-15" value="Vista App" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="190" y="90" width="100" height="420" as="geometry" />
+          <mxGeometry x="190" y="90" width="100" height="360" as="geometry" />
         </mxCell>
         <mxCell id="0vhitlNSlHansAHAVCsJ-22" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="0vhitlNSlHansAHAVCsJ-15" vertex="1">
-          <mxGeometry x="50" y="80" width="10" height="150" as="geometry" />
+          <mxGeometry x="50" y="80" width="10" height="250" as="geometry" />
         </mxCell>
         <mxCell id="0vhitlNSlHansAHAVCsJ-23" value="Validar email&lt;br&gt;Password" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" parent="0vhitlNSlHansAHAVCsJ-15" target="0vhitlNSlHansAHAVCsJ-22" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -64,11 +64,23 @@
             <mxPoint x="682.5" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TT3K4nxCikKpbwO2ICjZ-4" value=":UserModel" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="790" y="80" width="100" height="420" as="geometry" />
+        <mxCell id="TT3K4nxCikKpbwO2ICjZ-6" value="userInstances(userId)" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="460" y="370" as="sourcePoint" />
+            <mxPoint x="682.5" y="370" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="TT3K4nxCikKpbwO2ICjZ-5" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="TT3K4nxCikKpbwO2ICjZ-4">
-          <mxGeometry x="50" y="250" width="10" height="160" as="geometry" />
+        <mxCell id="TT3K4nxCikKpbwO2ICjZ-7" value="return UserInstances[]" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="679" y="409.5" as="sourcePoint" />
+            <mxPoint x="459" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TT3K4nxCikKpbwO2ICjZ-8" value="return JSON/OBJ" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;entryX=1;entryY=0.956;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="0vhitlNSlHansAHAVCsJ-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="408.5" as="sourcePoint" />
+            <mxPoint x="260" y="409" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
