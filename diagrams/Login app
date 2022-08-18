@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-18T19:50:14.740Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="TnA-Pdf_z5dtS2PcdFDY" version="20.2.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-08-18T20:26:52.659Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="ANJLAb0JcDw3vS4IoiaW" version="20.2.4" type="github" pages="2">
   <diagram id="gcUTEpgHtW5JdiT5YzwV" name="Inicio de sesion">
     <mxGraphModel dx="1426" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -16,7 +16,7 @@
         <mxCell id="0vhitlNSlHansAHAVCsJ-12" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="0vhitlNSlHansAHAVCsJ-11" vertex="1">
           <mxGeometry x="50" y="90" width="10" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="0vhitlNSlHansAHAVCsJ-15" value="Vista App" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
+        <mxCell id="0vhitlNSlHansAHAVCsJ-15" value="View Login App" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="190" y="90" width="100" height="360" as="geometry" />
         </mxCell>
         <mxCell id="0vhitlNSlHansAHAVCsJ-22" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="0vhitlNSlHansAHAVCsJ-15" vertex="1">
@@ -102,19 +102,19 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="CwhvwEICqgHz81rE34P5-1" value=":UserController" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="450" y="90" width="100" height="360" as="geometry" />
+        <mxCell id="CwhvwEICqgHz81rE34P5-1" value=":UserContactController" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="90" width="130" height="360" as="geometry" />
         </mxCell>
         <mxCell id="CwhvwEICqgHz81rE34P5-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="CwhvwEICqgHz81rE34P5-1">
           <mxGeometry x="50" y="106" width="10" height="224" as="geometry" />
         </mxCell>
-        <mxCell id="CwhvwEICqgHz81rE34P5-3" value=":UserModel" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="683" y="90" width="100" height="360" as="geometry" />
+        <mxCell id="CwhvwEICqgHz81rE34P5-3" value=":UserContactModel" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="687" y="93" width="130" height="360" as="geometry" />
         </mxCell>
         <mxCell id="CwhvwEICqgHz81rE34P5-4" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="CwhvwEICqgHz81rE34P5-3">
           <mxGeometry x="50" y="90" width="10" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="CwhvwEICqgHz81rE34P5-5" value="Vista App" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="CwhvwEICqgHz81rE34P5-5" value="Vista Select&lt;br&gt;place App" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="240" y="90" width="100" height="360" as="geometry" />
         </mxCell>
         <mxCell id="CwhvwEICqgHz81rE34P5-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="CwhvwEICqgHz81rE34P5-5">
@@ -128,10 +128,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="CwhvwEICqgHz81rE34P5-8" value="Login(Email, Password)" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="CwhvwEICqgHz81rE34P5-5" target="CwhvwEICqgHz81rE34P5-1">
+        <mxCell id="CwhvwEICqgHz81rE34P5-8" value="Login(Email, Password)" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="CwhvwEICqgHz81rE34P5-5">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="60" y="121" as="sourcePoint" />
-            <mxPoint x="234.5" y="121" as="targetPoint" />
+            <mxPoint x="260" y="121" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CwhvwEICqgHz81rE34P5-9" value="&lt;font color=&quot;#ff0000&quot;&gt;Error de inicio de sesión&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="CwhvwEICqgHz81rE34P5-5" target="CwhvwEICqgHz81rE34P5-18">
