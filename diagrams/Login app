@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-24T17:42:11.312Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="oGSmBSm80mY-QsfwfsCG" version="20.2.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-08-24T17:45:59.674Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="sd5EcphlvBsAYsG_QjIF" version="20.2.5" type="github" pages="5">
   <diagram id="gcUTEpgHtW5JdiT5YzwV" name="Inicio de sesion">
     <mxGraphModel dx="1426" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -331,7 +331,7 @@
             <mxPoint x="269" y="94" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kVuJXnIOvxLc1yMwtndp-10" value="UserIdentification[ ]" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;exitX=-0.4;exitY=0.619;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="kVuJXnIOvxLc1yMwtndp-7" source="kVuJXnIOvxLc1yMwtndp-12">
+        <mxCell id="kVuJXnIOvxLc1yMwtndp-10" value="UserEmail[ ]" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;exitX=-0.4;exitY=0.619;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="kVuJXnIOvxLc1yMwtndp-7" source="kVuJXnIOvxLc1yMwtndp-12">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="148" y="130" as="sourcePoint" />
             <mxPoint x="68" y="130" as="targetPoint" />
@@ -343,7 +343,7 @@
         <mxCell id="kVuJXnIOvxLc1yMwtndp-12" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="kVuJXnIOvxLc1yMwtndp-11">
           <mxGeometry x="54" y="65" width="10" height="105" as="geometry" />
         </mxCell>
-        <mxCell id="kVuJXnIOvxLc1yMwtndp-13" value="return &quot;UserExists || UserDontExist&quot;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;exitX=-0.4;exitY=0.619;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="kVuJXnIOvxLc1yMwtndp-1">
+        <mxCell id="kVuJXnIOvxLc1yMwtndp-13" value="return &quot;emailExist&amp;nbsp;|| emailDontExist&quot;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;exitX=-0.4;exitY=0.619;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="kVuJXnIOvxLc1yMwtndp-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="425" y="295.9949999999999" as="sourcePoint" />
             <mxPoint x="204.5" y="295.9949999999999" as="targetPoint" />
