@@ -1,1 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2022-09-01T21:04:40.389Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" version="20.2.7" etag="A2M2BUN7h_iypLvV36o_" type="github"><diagram id="cAOsAnPpxSTJ4OME0NVT">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-09-01T21:51:14.958Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="TDg0TLh8MWQx1B5IPQUR" version="20.2.7" type="github">
+  <diagram id="cAOsAnPpxSTJ4OME0NVT" name="Page-1">
+    <mxGraphModel dx="1426" dy="-299" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MioIM7X3Ic0pk1cOMyed-9" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="660" y="1380" width="130" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="MioIM7X3Ic0pk1cOMyed-1" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.tape_storage;" vertex="1" parent="MioIM7X3Ic0pk1cOMyed-9">
+          <mxGeometry x="17.5" width="95" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="MioIM7X3Ic0pk1cOMyed-8" value="SERVIDOR WEB&amp;nbsp;&lt;br&gt;Y BASE DE DATOS&lt;br&gt;PEL" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="MioIM7X3Ic0pk1cOMyed-9">
+          <mxGeometry y="85" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MioIM7X3Ic0pk1cOMyed-10" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="360" y="1370" width="130" height="157.5" as="geometry" />
+        </mxCell>
+        <mxCell id="MioIM7X3Ic0pk1cOMyed-3" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" vertex="1" parent="MioIM7X3Ic0pk1cOMyed-10">
+          <mxGeometry x="10" y="12.5" width="110" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="MioIM7X3Ic0pk1cOMyed-12" value="" style="group" vertex="1" connectable="0" parent="MioIM7X3Ic0pk1cOMyed-10">
+          <mxGeometry y="105" width="130" height="52.5" as="geometry" />
+        </mxCell>
+        <mxCell id="MioIM7X3Ic0pk1cOMyed-7" value="ENTORNO LOCAL" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="MioIM7X3Ic0pk1cOMyed-12">
+          <mxGeometry width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MioIM7X3Ic0pk1cOMyed-6" value="PÁGINA PEL" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="MioIM7X3Ic0pk1cOMyed-12">
+          <mxGeometry x="20" y="22.5" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MioIM7X3Ic0pk1cOMyed-11" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="60" y="1400" width="100" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="MioIM7X3Ic0pk1cOMyed-4" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.tablet;" vertex="1" parent="MioIM7X3Ic0pk1cOMyed-11">
+          <mxGeometry width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="MioIM7X3Ic0pk1cOMyed-5" value="BIOMÉTRICO&lt;br&gt;FACIAL" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="MioIM7X3Ic0pk1cOMyed-11">
+          <mxGeometry y="70" width="100" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
