@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-02T20:42:56.076Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="HFVqm61Y43wyHhU5kgSX" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-02T20:43:07.140Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="pOlz3BzxaUBn84BgZTGs" type="github">
   <diagram id="Iy70mCzCKJFpxcGli6i_" name="Page-1">
     <mxGraphModel dx="2276" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -56,10 +56,10 @@
           <mxGeometry x="760" y="190" width="125" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mNEBTaRFAyoqbIbfhplp-10" value="Minutas" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Nunito;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNunito;fontStyle=1;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="930" y="190" width="125" height="40" as="geometry" />
+          <mxGeometry x="1040" y="190" width="125" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mNEBTaRFAyoqbIbfhplp-11" value="Perfil" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Nunito;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNunito;fontStyle=1;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="1100" y="190" width="125" height="40" as="geometry" />
+          <mxGeometry x="1210" y="190" width="125" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mNEBTaRFAyoqbIbfhplp-17" value="Noticias destacadas" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Nunito;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNunito;fontStyle=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="160" y="240" width="125" height="40" as="geometry" />
