@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-02T20:12:05.009Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="d0agOX52rk6NvORvPzNn" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-02T20:42:56.076Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="HFVqm61Y43wyHhU5kgSX" type="github">
   <diagram id="Iy70mCzCKJFpxcGli6i_" name="Page-1">
     <mxGraphModel dx="2276" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -48,6 +48,9 @@
         </mxCell>
         <mxCell id="mNEBTaRFAyoqbIbfhplp-8" value="Panel de control" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Nunito;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNunito;fontStyle=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="450" y="190" width="125" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mNEBTaRFAyoqbIbfhplp-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Verdana;fontSize=13;" edge="1" parent="1" source="mNEBTaRFAyoqbIbfhplp-9" target="mNEBTaRFAyoqbIbfhplp-41">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mNEBTaRFAyoqbIbfhplp-9" value="Gestión de riesgos" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Nunito;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNunito;fontStyle=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="760" y="190" width="125" height="40" as="geometry" />
@@ -111,6 +114,9 @@
         </mxCell>
         <mxCell id="mNEBTaRFAyoqbIbfhplp-40" value="Gestión de minutas" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Nunito;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNunito;fontStyle=1;fontSize=13;align=center;" vertex="1" parent="1">
           <mxGeometry x="540" y="740" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mNEBTaRFAyoqbIbfhplp-41" value="Administracion" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Nunito;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNunito;fontStyle=1;fontSize=13;align=center;" vertex="1" parent="1">
+          <mxGeometry x="850" y="250" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
